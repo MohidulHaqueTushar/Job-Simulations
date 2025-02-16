@@ -2,10 +2,10 @@
 
 **All factory's damages:**
 
-<img src="https://github.com/MohidulHaqueTushar/Dashboards/blob/main/deloitte_data_analysis/All_Output.JPG" width="500"/>
+<img src="https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/Deloitte_data_analytics/All_Output.JPG" width="500"/>
 
 
 
 **The factory has the most damage:**
 
-<img src="https://github.com/MohidulHaqueTushar/Dashboards/blob/main/deloitte_data_analysis/FilteredOutput.JPG" width="500"/>
+<img src="https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/Deloitte_data_analytics/FilteredOutput.JPG" width="500"/>
