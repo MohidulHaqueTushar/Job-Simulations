@@ -7,7 +7,7 @@
   - Scrape and collect customer feedback by analyzing third-party data
   - Present the insights using PowerPoint
 - Skills:
-  - Python 
+  - Python, Web Scraping, Pandas, Matplotlib, Data Analysis, Presentation
 
 ## Data Analytics Role
 
