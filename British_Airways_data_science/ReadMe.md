@@ -13,3 +13,5 @@ Data for British Airways was collected from Skytrax. The following insights were
 ---
 #### Task 02 - Predicting customer buying behaviour
 Customers are more empowered than ever because they have access to a wealth of information. This is one of the reasons the buying cycle is very different from what it used to be. Airlines must be proactive in acquiring customers before they embark on their holidays. This task involves building a high-quality predictive model to predict successful bookings.
+
+<img src="https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/British_Airways_data_science/image/feature_importance_scaled.png" alt="re" width="500">
