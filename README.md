@@ -1,4 +1,4 @@
-# This repository has different Online Internship projects organized by companies
+# Online Internship projects organized by Companies
 
 ## Data Science Role
 
