@@ -1,11 +1,11 @@
-# This repository has different Job Simulations organized by different companies
+# This repository has different Online Internship projects organized by companies
 
 ## Data Science Role
 
-01. Data Scientist at **British Airways**:
+01. Data Scientist at [**British Airways**](https://github.com/MohidulHaqueTushar/Job-Simulations/tree/main/British_Airways_data_science):
 - Project Tasks:
-  - Scrape and collect customer feedback by analyzing third-party data
-  - Present the insights using PowerPoint
+  - Task 01: [Scrape and clean](https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/British_Airways_data_science/%2Cipynb_files/collection_and_cleaning_of_BA_reveiws_checkpoint.ipynb) customer feedback from third parties and [analyze](https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/British_Airways_data_science/%2Cipynb_files/collection_and_cleaning_of_BA_reveiws_checkpoint.ipynb) for insights
+  - Task 02: [Analyze and model](https://github.com/MohidulHaqueTushar/Job-Simulations/blob/main/British_Airways_data_science/%2Cipynb_files/eda_and_ml_model_of_customer_data.ipynb) the flight booking behaviour 
 - Skills:
   - Python, Web Scraping, Pandas, Matplotlib, Data Analysis, Presentation
 
